@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Woolworths Roblox Group</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <header>
+        <div class="logo">
+            <h1>Woolworths Roblox Group</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#join">Join Us</a></li>
+                <li><a href="#admins">Admins</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home">
+        <h2>Welcome to the Woolworths Roblox Group!</h2>
+        <p>Join us in exciting Roblox experiences built by .vxblue and .vxlazar!</p>
+        <a href="https://www.roblox.com/groups/yourgroupid" class="cta-button">Join the Group</a>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Woolworths</h2>
+        <p>Woolworths is a vibrant Roblox group focused on creating unique and fun experiences for its members.</p>
+    </section>
+
+    <!-- Join Us Section -->
+    <section id="join">
+        <h2>Join Us</h2>
+        <p>We're always looking for passionate players! Follow the instructions to become a part of our growing community.</p>
+        <a href="https://www.roblox.com/groups/yourgroupid" class="cta-button">Join the Group</a>
+    </section>
+
+    <!-- Admins Section -->
+    <section id="admins">
+        <h2>Meet the Admins</h2>
+        <div class="admin">
+            <h3>.vxblue</h3>
+            <p>Leader of Woolworths. A Roblox veteran with a passion for creating fun games and communities.</p>
+        </div>
+        <div class="admin">
+            <h3>.vxlazar</h3>
+            <p>Co-leader of Woolworths. Specializes in game design and making sure everything runs smoothly.</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Woolworths Roblox Group. All Rights Reserved.</p>
+        <p>Contact us at: woolworths@example.com</p>
+    </footer>
+</body>
+</html>
